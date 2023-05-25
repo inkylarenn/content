@@ -1,2 +1,2 @@
-# dynalist
-Project for sharing the dynalist lists I want to share with the world.
+# seeking validation
+Seeking validation is a personal blog. It is written and managed in dynalist.io. 
